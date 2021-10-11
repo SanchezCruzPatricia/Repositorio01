@@ -1,0 +1,3 @@
+# Repositorio01
+** proyecto creado por Patricia Sánchez.
+** En este repositorio va a poder ver como es la instalación de GIT y de GITHUB, también que es cada uno y sus funciones. Y la creacion de este mismo repositorio.
